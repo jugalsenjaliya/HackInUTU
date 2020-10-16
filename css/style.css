@@ -4,6 +4,19 @@
     scroll-behavior: smooth;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+#navbar{
+    background: rgb(114, 27, 255);
+    width: 100%;
+    left: 0;
+}
+
 .header{
     background: rgb(114, 27, 255);  
 }
